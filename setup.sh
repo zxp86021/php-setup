@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt update
+
 #install PHP without apache
 sudo apt install -y php-cli php-common php-fpm php-curl php-mysql php-xml php-readline php-tidy php-json php-mcrypt php-mbstring php-gd php-opcache php-zip php-pear
 
