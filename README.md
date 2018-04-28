@@ -1,5 +1,7 @@
 ## About
-This script will install **PHP without apache** and **latest composer** in your system, tested on Ubuntu 16.04 and above.
+This script will install **PHP without apache** and **latest composer** in your system for laravel
+
+tested on Ubuntu 16.04 and 18.04.
 
 ## Usage
 1. Clone this repo or [Download](https://github.com/zxp86021/php-setup/archive/master.zip)
