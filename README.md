@@ -9,3 +9,7 @@ tested on Ubuntu 16.04 and 18.04.
     b. for Ubuntu 18.04 Users, Please run `install-1804.sh`
   
 and it will do everything you need.
+
+### Hint
+1. Use `sudo chmod +x (script you want to excute)` to make shell script excutable 
+2. Use `./(script you want to excute)` to excute shell script
