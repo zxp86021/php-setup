@@ -3,7 +3,7 @@
 sudo apt update
 
 #install PHP without apache
-sudo apt install -y php-cli php-common php-fpm php-curl php-mysql php-xml php-readline php-tidy php-json php-mcrypt php-mbstring php-gd php-opcache php-zip php-pear php-bcmath
+sudo apt install -y php-cli php-common php-fpm php-curl php-mysql php-xml php-readline php-tidy php-json php-mcrypt php-mbstring php-gd php-opcache php-zip php-pear php-bcmath unzip
 
 #if $HOME/bin dir not exist, then create it
 if [ ! -d "$HOME/bin" ] ; then
